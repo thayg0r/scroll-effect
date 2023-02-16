@@ -1,5 +1,6 @@
 # Scroll Effect
-## Efeito de ocultar imagem ao descer/subir a página de internet. Desenvolvido com JavaScript, HTML e CSS.
+## Efeito de ocultar imagem ao descer/subir a página de internet.
+### Desenvolvido com JavaScript, HTML e CSS.
 
 <div align="center">
 
@@ -9,7 +10,7 @@
 
 <div align="center">
 
-em execução
+Em execução
 
 </div>
 
@@ -21,6 +22,6 @@ em execução
 
 <div align="center">
 
-página web
+Pagina Web
 
 </div>
